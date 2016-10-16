@@ -1,0 +1,172 @@
+/****************************** the navigator style to mark it well*********************************/
+.nav{
+	background-color: rgba(100,56,181,.5);
+	padding-right: 80px;
+	padding-left: 50px;
+	height: 70px;
+	padding-top: 20px;
+}
+.top-bar ul{
+	background-color:#B29CDA;
+}
+.nav section ul li a:hover{
+	background-color:black;
+}
+.logo h4 a{
+	/*color: rgba(100,56,181,.2);*/
+	/*color:red;*/
+	background-color:#B29CDA;
+	/*background-color: rgba(100,56,181,.5);*/
+	text-decoration: none;
+}
+.nav section ul li a{
+	/*color:red;*/
+
+	background-color: rgba(100,56,181,.5);
+	text-decoration: none;
+}
+
+/********************************************************************
+**********************************************************************/
+
+/* that is the photo design to illustrate to you */
+.photo{
+	height: 585px;
+	background-color: blue;
+}
+
+.photo img{
+	height:585px;
+	width:100%; 
+}
+.def{
+   position: absolute; 
+   top: 200px; 
+   width: 100%;	
+   color:white;
+   font-size: 90px;
+}
+.de{
+   position: absolute; 
+   top: 320px; 
+   width: 100%;	
+   color:white;
+   font-size: 20px;
+}
+/********************************************************************
+**********************************************************************/
+
+
+/*********************features style ********************************
+********************************************************************/
+.feature{
+	/*background-color: green;*/
+
+/*background: #304352; /* fallback for old browsers */
+/*background: -webkit-linear-gradient(to left, #304352 , #d7d2cc); /* Chrome 10-25, Safari 5.1-6 */
+/*background: linear-gradient(to left, #304352 , #d7d2cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #673AB7; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #673AB7 , #512DA8); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #673AB7 , #512DA8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+/*background: #B24592; /* fallback for old browsers */
+/*background: -webkit-linear-gradient(to left, #B24592 , #F15F79); /* Chrome 10-25, Safari 5.1-6 */
+/*background: linear-gradient(to left, #B24592 , #F15F79); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+
+	/*padding: 60px 0px;*/
+}
+.head{
+	font-size: 40px;
+	padding-bottom: 20px;
+	color:white;
+}
+.wrap{
+	padding-top: 30px;
+}
+.break{
+	color:black;
+}
+.text{
+	font-size: 30px;
+	padding-left: 50px;
+	font-family: serif;
+	color:white;
+}
+
+/********************************************************************
+**********************************************************************/
+
+
+
+/*********************why you love it section ********************************
+********************************************************************/
+
+.love-section{
+	padding:10px 0px;
+	/*background-color: #AEAFAE;*/
+	background-color: #1ac9ff;
+	padding-top: 50px;
+}
+.love-header{
+	text-align: center;
+	font-family: Arial;
+	font-size: 30px;
+	color:white;
+}
+.love-head{
+	padding-left:125px;
+	font-family: Arial;
+	font-size: 20px;
+	color:white;
+}
+/********************************************************************
+**********************************************************************/
+.about{
+	padding:30px 0px;
+}
+/*********************why you love it section ********************************
+********************************************************************/
+.contact{
+	padding:30px 0px;
+	height: 400px;
+	background-color: #222;
+
+}
+.btn-info{
+	background-color: #222;
+}
+.btn-info:hover{
+	background-color: #673AB7;
+}
+/********************************************************************
+**********************************************************************/
+
+
+background: #304352; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #304352 , #d7d2cc); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #304352 , #d7d2cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+
+background: #673AB7; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #673AB7 , #512DA8); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #673AB7 , #512DA8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+
+background: #B24592; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #B24592 , #F15F79); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #B24592 , #F15F79); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
